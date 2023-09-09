@@ -1,5 +1,5 @@
 # Angela Halsten 9/8/2023
-
+![Alt text](<Screenshot 2023-09-09 151247.png>)
 # streaming-03-rabbitmq
 
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
