@@ -1,5 +1,6 @@
 """
-    This program sends a message to a queue on the RabbitMQ server.
+  Angela Halsten 9/8/2023
+      This program sends a message to a queue on the RabbitMQ server.
 
 """
 
