@@ -1,0 +1,8 @@
+2023-09-08 21:03:30,839.v2_emit_message.INFO ==================================================
+2023-09-08 21:03:30,840.v2_emit_message.INFO Today is 2023-09-08 at 09:03 PM
+2023-09-08 21:03:30,840.v2_emit_message.INFO Running on: nt Windows 10
+2023-09-08 21:03:30,841.v2_emit_message.INFO Python version:  3.11.0
+2023-09-08 21:03:30,841.v2_emit_message.INFO Python path: C:\Users\alhal\OneDrive\Documents\44-671\streaming-03-rabbitmq\streaming-03-rabbitmq\.venv
+2023-09-08 21:03:30,842.v2_emit_message.INFO Working dir: C:\Users\alhal\OneDrive\Documents\44-671\streaming-03-rabbitmq\streaming-03-rabbitmq
+2023-09-08 21:03:30,844.v2_emit_message.INFO ==================================================
+2023-09-08 21:03:30,860.v2_emit_message.INFO  [x] Sent Hello World!
